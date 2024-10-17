@@ -1,4 +1,4 @@
-# Mpvie App
+# Movie App
 
 This is "the" second mini beginner projects in Modern JS course by Brad Traversy.
 
