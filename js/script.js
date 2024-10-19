@@ -490,6 +490,7 @@ function init() {
       displayPopularMovies();
       break;
     case "/shows.html":
+    case "/shows":
       displayPopularShows();
       //   console.log("Shows");
       break;
